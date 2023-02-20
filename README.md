@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mister-JP
-- 👀 I’m interested in Computer Vision
-- 🌱 I’m currently learning ML and AI.
-- 💞️ I’m looking to collaborate on 
+- 👋 Hi, I’m Jignasu
+- 👀 I’m interested in Full-stack development and Machine learning.
+- 🌱 I’m currently learning Angular, GCP, Azure, PyTorch and Unity.
+- 💞️ I’m looking to collaborate on front-end for machine learning application.
 - 📫 How to reach me 1jignasu@gmail.com
 
 <!---
