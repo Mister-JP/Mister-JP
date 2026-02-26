@@ -1,4 +1,4 @@
-# Hi, I am JP
+# Hi, I am Jignasu
 
 I build practical ML systems, write technical field guides, and turn benchmarks into decisions.
 
@@ -7,8 +7,8 @@ I build practical ML systems, write technical field guides, and turn benchmarks 
 - Featured book: *Microscopy Segmentation Benchmark* (draft)
 
 ## Pinned projects
-- Project 1: <link>
-- Project 2: <link>
+- Neural Architecture Editor: https://Mister-JP.github.io/procedural-architecture-diagram/
+- Source code: https://github.com/Mister-JP/procedural-architecture-diagram
 - Project 3: <link>
 
 ## Current focus
