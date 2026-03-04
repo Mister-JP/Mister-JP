@@ -7,8 +7,8 @@ I build practical ML systems, write technical field guides, and turn benchmarks 
 - Featured book: *Microscopy Segmentation Benchmark* (draft)
 
 ## Pinned projects
-- Neural Architecture Editor: https://Mister-JP.github.io/procedural-architecture-diagram/
-- Source code: https://github.com/Mister-JP/procedural-architecture-diagram
+- Neural Architecture Editor: https://Mister-JP.github.io/neural-architecture-diagram-editor/
+- Source code: https://github.com/Mister-JP/neural-architecture-diagram-editor
 - Project 3: <link>
 
 ## Current focus
