@@ -1,4 +1,5 @@
-# Hi, I am Jignasu, here is my Portfolio: https://Mister-JP.github.io/
+# Hi, I am Jignasu, 
+## My Portfolio: https://Mister-JP.github.io/
 
 I build practical ML systems, write technical field guides, and turn benchmarks into decisions.
 
